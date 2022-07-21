@@ -1,0 +1,3 @@
+# Notes
+# Django web application
+## 
